@@ -47,6 +47,9 @@ Then reload the configuration.
 > [`global-config`](../../global-config.rsc) (the one without `-overlay`) to
 > your local `global-config-overlay` and modify it to your specific needs.
 
+Running a server on-premises allows to add additional basic authentication.
+Configure `NtfyServerUser` and `NtfyServerPass` for this.
+
 Usage and invocation
 --------------------
 
